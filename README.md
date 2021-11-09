@@ -27,17 +27,22 @@ Syntax highlighted code block
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).-->
+
 ### How to build this project? 👷
+
 - step 1 :- fork and clone this repository.
 - step 2 :- cd into the directory.
 - step 3 :- type the following into your terminal or bash (without the `$` sign):
+
 ```bash
 $ FLASK_APP=app:lazybugged.py
 $ FLASK_ENV=development
 ```
+
 ### Support 🤝 or Contact 📧
- WE ARE READY FOR ANY TYPE OF PR. 😊 But make sure that you follow the [CODE_OF_CONDUCT](https://github.com/LazyBugged/lazy.bugged)
- 
+
+WE ARE READY FOR ANY TYPE OF PR. 😊 But make sure that you follow the [CODE_OF_CONDUCT](https://github.com/LazyBugged/lazy.bugged)
+
 ### License
 
 [MIT](https://choosealicense.com/MIT)
